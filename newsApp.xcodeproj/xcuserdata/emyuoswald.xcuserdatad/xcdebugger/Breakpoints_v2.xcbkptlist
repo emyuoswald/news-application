@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2625A766-EBF9-4EFF-8203-06828E44D42D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C00F12D-1E6C-4DF9-9971-5BB7ED4429CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newsApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C00F12D-1E6C-4DF9-9971-5BB7ED4429CC - ead7044ffc645103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;newsApp.Article&gt;, Swift.Error&gt;) -&gt; () in newsApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "newsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emyuoswald/Desktop/swift%20projects/newsApp/newsApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "0C00F12D-1E6C-4DF9-9971-5BB7ED4429CC - cee15fd8a8795edb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (newsApp.Article) -&gt; Swift.Optional&lt;newsApp.newsTableViewCellViewModel&gt; in closure #1 (Swift.Result&lt;Swift.Array&lt;newsApp.Article&gt;, Swift.Error&gt;) -&gt; () in newsApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "newsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emyuoswald/Desktop/swift%20projects/newsApp/newsApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
